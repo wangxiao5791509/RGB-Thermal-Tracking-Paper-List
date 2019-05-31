@@ -1,7 +1,7 @@
 # RGB-Thermal-Tracking-Paper-List 
 
 This is a paper list of RGB-Thermal tracking algorithms.
-![image](https://github.com/wangxiao5791509/RGB-Thermal-Tracking-Paper-List/blob/master/pipeline.png)
+![image](https://github.com/wangxiao5791509/RGB-Thermal-Tracking-Paper-List/blob/master/pipeline2.png)
 
 
 
