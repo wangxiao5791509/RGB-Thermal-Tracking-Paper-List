@@ -1,6 +1,8 @@
 # RGB-Thermal-Tracking-Paper-List 
 
-This is a paper list of RGB-Thermal tracking algorithms. 
+This is a paper list of RGB-Thermal tracking algorithms.
+![image](https://github.com/wangxiao5791509/RGB-Thermal-Tracking-Paper-List/blob/master/pipeline.png)
+
 
 
 1. GTOT-50 dataset: "[Learning collaborative sparse representation for grayscale-thermal tracking](https://ieeexplore.ieee.org/document/7577747/)" IEEE Transactions on Image Processing 25, no. 12 (2016): 5743-5756.
