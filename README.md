@@ -3,7 +3,7 @@
 This is a paper list of RGB-Thermal tracking algorithms. 
 
 
-1. RTOT-50 dataset: "[Learning collaborative sparse representation for grayscale-thermal tracking](https://ieeexplore.ieee.org/document/7577747/)" IEEE Transactions on Image Processing 25, no. 12 (2016): 5743-5756.
+1. GTOT-50 dataset: "[Learning collaborative sparse representation for grayscale-thermal tracking](https://ieeexplore.ieee.org/document/7577747/)" IEEE Transactions on Image Processing 25, no. 12 (2016): 5743-5756.
 Li, Chenglong, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin. 
 
 2. RGBT-234 dataset: "[RGB-T object tracking: benchmark and baseline](https://arxiv.org/pdf/1805.08982)." arXiv preprint arXiv:1805.08982 (2018).
