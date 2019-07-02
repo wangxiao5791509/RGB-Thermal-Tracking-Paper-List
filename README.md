@@ -40,7 +40,9 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 12. [Learning Target-oriented Dual Attention for Robust RGB-T Tracking](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp), accepted by ICIP-2019, Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. 
 
-13. 
+13. Dense Feature Aggregation and Pruning for RGBT Tracking, Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang, accepted by [ACM MM 2019](https://www.acmmm.org/2019/) 
+
+14. 
 
 
 
