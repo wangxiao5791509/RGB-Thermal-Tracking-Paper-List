@@ -42,7 +42,7 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 13. Dense Feature Aggregation and Pruning for RGBT Tracking, Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang, accepted by [ACM MM 2019](https://www.acmmm.org/2019/) 
 
-14. 
+14. Multi-Adapter RGBT Tracking, Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang, arXiv Preprint 	arXiv:1907.07485, [Paper](https://arxiv.org/abs/1907.07485) [Code](https://github.com/Alexadlu/MANet)
 
 
 
