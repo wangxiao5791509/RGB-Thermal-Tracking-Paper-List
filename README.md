@@ -40,9 +40,9 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 12. [Learning Target-oriented Dual Attention for Robust RGB-T Tracking](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp), accepted by ICIP-2019, Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. [[Paper]](https://arxiv.org/abs/1908.04441)
 
-13. Dense Feature Aggregation and Pruning for RGBT Tracking, Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang, accepted by [ACM MM 2019](https://www.acmmm.org/2019/) 
+13. Dense Feature Aggregation and Pruning for RGBT Tracking, Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang, accepted by [ACM MM 2019](https://www.acmmm.org/2019/) [[Paper]](https://arxiv.org/abs/1907.10451)
 
-14. Multi-Adapter RGBT Tracking, Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang, arXiv Preprint 	arXiv:1907.07485, [Paper](https://arxiv.org/abs/1907.07485) [Code](https://github.com/Alexadlu/MANet)
+14. Multi-Adapter RGBT Tracking, Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang, arXiv Preprint 	arXiv:1907.07485, ICCV-2019 workshop [Paper](https://arxiv.org/abs/1907.07485) [Code](https://github.com/Alexadlu/MANet)
 
 
 
