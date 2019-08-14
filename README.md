@@ -38,7 +38,7 @@ Li, Chenglong, Xiang Sun, Xiao Wang, Lei Zhang, and Jin Tang.
 11. "[Robust collaborative discriminative learning for RGB-infrared tracking](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16878/16289)." In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen. 
 
-12. [Learning Target-oriented Dual Attention for Robust RGB-T Tracking](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp), accepted by ICIP-2019, Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. 
+12. [Learning Target-oriented Dual Attention for Robust RGB-T Tracking](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp), accepted by ICIP-2019, Rui Yang, Yabin Zhu, Xiao Wang, Chenglong Li, Jin Tang. [[Paper]](https://arxiv.org/abs/1908.04441)
 
 13. Dense Feature Aggregation and Pruning for RGBT Tracking, Yabin Zhu, Chenglong Li, Bin Luo, Jin Tang, Xiao Wang, accepted by [ACM MM 2019](https://www.acmmm.org/2019/) 
 
