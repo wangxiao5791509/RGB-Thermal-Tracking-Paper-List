@@ -44,7 +44,7 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 14. Multi-Adapter RGBT Tracking, Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, Jin Tang, arXiv Preprint 	arXiv:1907.07485, ICCV-2019 workshop [Paper](https://arxiv.org/abs/1907.07485) [Code](https://github.com/Alexadlu/MANet)
 
-
+15. Zhang, X., Ye, P., Leung, H., Gong, K., & Xiao, G. (2020). Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. Information Fusion. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)]
 
 
 
