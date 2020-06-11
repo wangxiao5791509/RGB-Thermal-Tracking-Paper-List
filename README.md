@@ -46,7 +46,7 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 15. Zhang, X., Ye, P., Leung, H., Gong, K., & Xiao, G. (2020). Object Fusion Tracking Based on Visible and Infrared Images: A Comprehensive Review. Information Fusion. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253520302657)] 
 
-16. Cross-Modal Pattern-Propagation for RGB-T Tracking	Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang [[cvpr-2020]()]
+16. Cross-Modal Pattern-Propagation for RGB-T Tracking	Chaoqun Wang, Chunyan Xu, Zhen Cui, Ling Zhou, Tong Zhang, Xiaoya Zhang, Jian Yang [[cvpr-2020](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Cross-Modal_Pattern-Propagation_for_RGB-T_Tracking_CVPR_2020_paper.html)]
 
 
 
