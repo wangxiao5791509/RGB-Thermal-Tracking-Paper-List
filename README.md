@@ -50,7 +50,9 @@ Lan, Xiangyuan, Mang Ye, Shengping Zhang, and Pong C. Yuen.
 
 17. Jointly Modeling Motion and Appearance Cues for Robust RGB-T Tracking. Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiaoyun Yang [[arXiv pre-print](https://arxiv.org/abs/2007.02041)]
  
-18. 
+18. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark [[ACM MM 2020](https://github.com/QiaoLiuHit/LSOTB-TIR)] 
+
+19. 
 
 
 
